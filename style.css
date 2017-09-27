@@ -1,0 +1,74 @@
+* {
+	box-sizing: border-box;
+	border: 1px solid lightgrey;
+}
+
+.wrapper {
+	width: 1000px;
+	margin: 0px auto;
+	text-align: center;
+}
+
+.first {
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	width: 800px;
+	margin: 20px;
+}
+
+ol {
+	text-align: center;
+}
+
+.midTwo {
+	display: inline-block;
+	vertical-align: top;
+	width: 400px;
+	margin: 20px;
+}
+
+#enterQuote {
+	display: block;
+}
+
+#otherQuote {
+	display: none;
+}
+
+.lastThree {
+	display: inline-block;
+	vertical-align: top;
+	width: 250px;
+	height: 200px;
+	margin: 20px;
+}
+
+button {
+	display: inline-block;
+	width: 30%;
+	margin: 5px;
+}
+
+#shakespeareFace {
+	display: none;
+	vertical-align: top;
+	width: 40%;
+}
+
+.first {
+	text-align: center;
+}
+
+.first h1 {
+	color: navy;
+	background-color: black;
+}
+
+.first ol {
+	width: 40%;
+}
+
+.red {
+	background-color: red;
+}
